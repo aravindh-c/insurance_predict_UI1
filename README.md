@@ -1,6 +1,7 @@
 Important URLs :
 
 API URL: https://container-service-2-insurance-api.kayxmfmmd8mag.ap-south-1.cs.amazonlightsail.com/docs#/default/predict_predict_post/docs
+
 Streamlit UI Interface : https://container-service-1.kayxmfmmd8mag.ap-south-1.cs.amazonlightsail.com/
 
 Demo Video : https://youtu.be/Jtp7bBqhWmc
